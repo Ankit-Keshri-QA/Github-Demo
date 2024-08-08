@@ -1,4 +1,4 @@
 # Github-Demo
-This is my First Repository fir learning purpose
-
-Author - Ankit Keshri
+This is my First Repository for learning purpose
+<br>
+Author - <strong> Ankit Keshri </strong>
